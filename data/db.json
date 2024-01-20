@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "shahzoda",
+      "surname": "shirinova",
+      "phone": 1230099,
+      "age": 16,
+      "address": "Yashnbod"
+    }
+  ]
+}
